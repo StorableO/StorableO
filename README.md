@@ -27,23 +27,23 @@
 
 #### 📱 **Mobile & Desktop**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ---
 
 ### 📌 **Featured Projects**  
-1. **(https://github.com/)**  
-   📝 Short description. Built with [tech stack].  
+1. **(https://github.com/StorableO/Py_recognizingFace)**  
+   📝 Short description. Built with object detection in Python using the OpenCV library.
+       With a help of Rasberri pi and cam.
    ![Stars](https://img.shields.io/github/stars/your-repo?style=flat)  
 
-2. **(https://github.com/your-repo-2)**  
-   📝 Short description.  
+3. **(https://github.com/StorableO/APPAndroid)**  
+   📝 Short description.  Just a java apps :) Still learning...
 
 ---
 
 ### 📫 **Reach Me**  
 - Email: **dikundenis19@gmail.com**  
 - Facebook: ![Facebook](https://img.shields.io/facebook/follow/your-handle?style=social)  
-
+- instagram: ![Instagram]()
 ---
 
 ### ⚡ **Fun Facts**  
