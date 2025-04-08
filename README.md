@@ -27,10 +27,11 @@
 
 #### 📱 **Mobile & Desktop**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ---
 
 ### 📌 **Featured Projects**  
-1. **(https://github.com/your-repo)**  
+1. **(https://github.com/)**  
    📝 Short description. Built with [tech stack].  
    ![Stars](https://img.shields.io/github/stars/your-repo?style=flat)  
 
